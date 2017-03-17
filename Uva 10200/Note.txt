@@ -1,0 +1,6 @@
+Tag: Easy, Prime, Loop		
+
+Description: 
+1) Precalculate:
+Run a loop for i = (0 to 10^4) and check i*i+i+41 is prime or not.
+2) Runtime: O(sqrt(i*i+i+41) * 10000 )
