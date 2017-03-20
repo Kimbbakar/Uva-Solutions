@@ -1,0 +1,11 @@
+Tag: Egg DP, MCM
+
+Description: 
+DP Parameters 
+1) Remaining mail box
+2) Lower bound of bomb 
+3) Upper bound of bomb
+
+Complexity: O(k*m^3)
+
+It can also be done by O(k*m^2)
