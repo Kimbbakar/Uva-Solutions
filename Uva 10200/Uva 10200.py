@@ -24,18 +24,22 @@ for i in range(10001):
     if i!=0:
         mark[i]+=mark[i-1]
 
+def main():
+    while True:
+        try:
+            a, b = map(int,  input().split())
+        except  :
+            break #end of file reached 
 
-while True:
-    try:
-        a, b = map(int, raw_input().split())
-    except  :
-        break #end of file reached 
+        res = float(mark[b])
 
-    res = float(mark[b])
+        if a:
+            res-=mark[a-1];
 
-    if a:
-        res-=mark[a-1];
- 
-    res/=(float) (b-a+1) 
+        res=res/(b-a+1);     
+        res *= 10000;
+        res = math.floor( res + 0.5 );
+        res /= 100;
+        print ('%.2f' % (res) )  
 
-    print '%.2f' % (res*100)  
+main()
