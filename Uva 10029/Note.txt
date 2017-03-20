@@ -1,0 +1,6 @@
+Tag: Easy,string
+
+Description: 
+1) Map the string
+2) try all possible new string by deleting / replacing / Adding.
+3) Newline need to put at the end. (-_-)
