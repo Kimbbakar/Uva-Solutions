@@ -1,0 +1,8 @@
+Tag: DP 
+
+Description:
+2 DP are needed here
+First DP: It will return Maximum U that can be made
+Second DP: It will return Minimum cost needed to maintain Maximum U. 
+
+Complexity: O(n*m*m) 
