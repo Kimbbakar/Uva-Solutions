@@ -1,3 +1,6 @@
-Tag: 
+Tag: Bit Mask DP, Medium
 
 Description: 
+Try all possible order of solve the problem set. And just need to keep track which contestant solve the last problem.
+
+
