@@ -1,0 +1,5 @@
+Tag: Graph,Easy, FLoyedWarshall 
+
+Description: 
+Pre Calculate all pair distance
+Answer the query with O(1) complexity
