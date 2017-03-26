@@ -1,0 +1,7 @@
+Tag: DP
+
+Description: 
+Maintain 6 parameters for each 6 types of chemicals.
+
+
+Warning: Second sample input is not correct. It will be -740
