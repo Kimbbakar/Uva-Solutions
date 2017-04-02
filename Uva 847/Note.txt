@@ -1,0 +1,6 @@
+Tag: DP, Pattern 
+
+Description: 
+Parameters 
+1) Current value.
+2) Which player now multiply.
