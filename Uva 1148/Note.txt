@@ -1,0 +1,5 @@
+Tag: BFS
+
+Description:
+1) Build a bi directional graph
+2) Run a bfs from node A to nod B. Count the number of node in the middle of shortages path.  
