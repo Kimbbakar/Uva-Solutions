@@ -1,0 +1,6 @@
+Tag: 
+Segment Tree + LCA
+Description: 
+Flath the tree. Then maintain 10 different segmentree for 10 different color. 
+
+** Data set is weak.
