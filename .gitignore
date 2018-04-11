@@ -1,5 +1,5 @@
 *.exe
 *.o
 Template.cpp
-Folder script.sh
-*.py
+Folder script.sh 
+README.md
