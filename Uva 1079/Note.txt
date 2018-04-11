@@ -1,0 +1,4 @@
+Tag: 
+
+Description: 
+Convert the time into milliseconds then run a binary search over the milliseconds.  
