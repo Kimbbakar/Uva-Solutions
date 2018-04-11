@@ -2,3 +2,4 @@
 *.o
 Template.cpp
 Folder script.sh
+*.py
