@@ -1,5 +1,5 @@
 *.exe
 *.o
 Template.cpp
-Folder script.sh 
+*.sh 
 README.md
